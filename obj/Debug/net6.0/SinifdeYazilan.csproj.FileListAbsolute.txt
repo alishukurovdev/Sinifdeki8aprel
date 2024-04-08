@@ -1,0 +1,15 @@
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\bin\Debug\net6.0\SinifdeYazilan.exe
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\bin\Debug\net6.0\SinifdeYazilan.deps.json
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\bin\Debug\net6.0\SinifdeYazilan.runtimeconfig.json
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\bin\Debug\net6.0\SinifdeYazilan.dll
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\bin\Debug\net6.0\SinifdeYazilan.pdb
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.csproj.AssemblyReference.cache
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.AssemblyInfoInputs.cache
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.AssemblyInfo.cs
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.dll
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\refint\SinifdeYazilan.dll
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.pdb
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\SinifdeYazilan.genruntimeconfig.cache
+C:\Users\ca.r214.16\Desktop\AB106\SinifdeYazilan\obj\Debug\net6.0\ref\SinifdeYazilan.dll
